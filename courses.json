@@ -1,0 +1,861 @@
+[
+    {
+      "technology": "C",
+      "courses": [
+        {
+          "title": "C Programming for Beginners",
+          "url": "https://www.udemy.com/course/c-programming-for-beginners-/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "C Programming A-Z: Learn The C Programming Language",
+          "url": "https://www.udemy.com/course/c-programming-a-z-learn-the-c-programming-language/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Introduction to Programming in C Specialization",
+          "url": "https://www.coursera.org/specializations/c-programming",
+          "platform": "Coursera"
+        }
+      ],
+      "recommendedBooks": [
+        "C Programming Language by Brian Kernighan and Dennis Ritchie",
+        "C Programming: A Modern Approach by K. N. King",
+        "Head First C by David Griffiths and Dawn Griffiths"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Jenny's Lectures CS IT",
+          "url": "https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w"
+        },
+        {
+          "name": "Neso Academy",
+          "url": "https://www.youtube.com/user/nesoacademy"
+        },
+        {
+          "name": "freeCodeCamp.org",
+          "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
+        }
+      ]
+    },
+    {
+      "technology": "Python",
+      "courses": [
+        {
+          "title": "Python for Everybody Specialization",
+          "url": "https://www.coursera.org/specializations/python",
+          "platform": "Coursera"
+        },
+        {
+          "title": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+          "url": "https://www.udemy.com/course/complete-python-bootcamp/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "2023 Complete Python Bootcamp From Zero to Hero in Python",
+          "url": "https://www.udemy.com/course/complete-python-bootcamp/",
+          "platform": "Udemy"
+        }
+      ],
+      "recommendedBooks": [
+        "Python Crash Course by Eric Matthes",
+        "Automate the Boring Stuff with Python by Al Sweigart",
+        "Fluent Python by Luciano Ramalho"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Corey Schafer",
+          "url": "https://www.youtube.com/user/schafer5"
+        },
+        {
+          "name": "Sentdex",
+          "url": "https://www.youtube.com/user/sentdex"
+        },
+        {
+          "name": "Real Python",
+          "url": "https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA"
+        }
+      ]
+    },
+    {
+      "technology": "C++",
+      "courses": [
+        {
+          "title": "Beginning C++ Programming - From Beginner to Beyond",
+          "url": "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "C++: From Beginner to Expert",
+          "url": "https://www.udemy.com/course/video-course-c-from-beginner-to-expert/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "C++ For C Programmers, Part A",
+          "url": "https://www.coursera.org/learn/c-plus-plus-a",
+          "platform": "Coursera"
+        }
+      ],
+      "recommendedBooks": [
+        "A Tour of C++ by Bjarne Stroustrup",
+        "Effective Modern C++ by Scott Meyers",
+        "C++ Primer by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "The Cherno",
+          "url": "https://www.youtube.com/user/TheChernoProject"
+        },
+        {
+          "name": "CppNuts",
+          "url": "https://www.youtube.com/user/MrRupeshyadav"
+        },
+        {
+          "name": "Bo Qian",
+          "url": "https://www.youtube.com/user/BoQianTheProgrammer"
+        }
+      ]
+    },
+    {
+      "technology": "Java",
+      "courses": [
+        {
+          "title": "Java Programming and Software Engineering Fundamentals Specialization",
+          "url": "https://www.coursera.org/specializations/java-programming",
+          "platform": "Coursera"
+        },
+        {
+          "title": "Java Programming Masterclass for Software Developers",
+          "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Object Oriented Programming in Java Specialization",
+          "url": "https://www.coursera.org/specializations/object-oriented-programming",
+          "platform": "Coursera"
+        }
+      ],
+      "recommendedBooks": [
+        "Effective Java by Joshua Bloch",
+        "Head First Java by Kathy Sierra and Bert Bates",
+        "Java: The Complete Reference by Herbert Schildt"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Java Brains",
+          "url": "https://www.youtube.com/user/koushks"
+        },
+        {
+          "name": "Derek Banas",
+          "url": "https://www.youtube.com/user/derekbanas"
+        },
+        {
+          "name": "Cave of Programming",
+          "url": "https://www.youtube.com/user/caveofprogramming"
+        }
+      ]
+    },
+    {
+      "technology": "Advanced Java",
+      "courses": [
+        {
+          "title": "Java In-Depth: Become a Complete Java Engineer!",
+          "url": "https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Advanced Java Programming",
+          "url": "https://www.udemy.com/course/advanced-java-programming/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Multithreading and Parallel Computing in Java",
+          "url": "https://www.udemy.com/course/multithreading-and-parallel-computing-in-java/",
+          "platform": "Udemy"
+        }
+      ],
+      "recommendedBooks": [
+        "Java Concurrency in Practice by Brian Goetz",
+        "Java Performance: The Definitive Guide by Scott Oaks",
+        "Java 8 in Action by Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Defog Tech",
+          "url": "https://www.youtube.com/channel/UCiz26UeGvcTy4_M3Zhgk7FQ"
+        },
+        {
+          "name": "Java Techie",
+          "url": "https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q"
+        },
+        {
+          "name": "Java Brains",
+          "url": "https://www.youtube.com/user/koushks"
+        }
+      ]
+    },
+    {
+      "technology": "HTML",
+      "courses": [
+        {
+          "title": "HTML, CSS, and Javascript for Web Developers",
+          "url": "https://www.coursera.org/learn/html-css-javascript-for-web-developers",
+          "platform": "Coursera"
+        },
+        {
+          "title": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+          "url": "https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "HTML5 and CSS3 Fundamentals",
+          "url": "https://www.edx.org/course/html5-and-css-fundamentals",
+          "platform": "edX"
+        }
+      ],
+      "recommendedBooks": [
+        "HTML and CSS: Design and Build Websites by Jon Duckett",
+        "Learning Web Design by Jennifer Niederst Robbins",
+        "HTML5: The Missing Manual by Matthew MacDonald"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Traversy Media",
+          "url": "https://www.youtube.com/user/TechGuyWeb"
+        },
+        {
+          "name": "freeCodeCamp.org",
+          "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
+        },
+        {
+          "name": "DevEd",
+          "url": "https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q"
+        }
+      ]
+    },
+    {
+      "technology": "CSS",
+      "courses": [
+        {
+          "title": "CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass)",
+          "url": "https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+          "url": "https://www.udemy.com/course/advanced-css-and-sass/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Introduction to CSS3",
+          "url": "https://www.coursera.org/learn/introcss",
+          "platform": "Coursera"
+        }
+      ],
+      "recommendedBooks": [
+        "CSS: The Definitive Guide by Eric A. Meyer and Estelle Weyl",
+        "CSS Secrets by Lea Verou",
+        "CSS in Depth by Keith J. Grant"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Kevin Powell",
+          "url": "https://www.youtube.com/user/KepowOb"
+        },
+        {
+          "name": "Layout Land",
+          "url": "https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag"
+        },
+        {
+          "name": "CSS-Tricks",
+          "url": "https://www.youtube.com/user/realcsstricks"
+        }
+      ]
+    },
+    {
+      "technology": "JavaScript",
+      "courses": [
+        {
+          "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+          "url": "https://www.udemy.com/course/the-complete-javascript-course/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "JavaScript: Understanding the Weird Parts",
+          "url": "https://www.udemy.com/course/understand-javascript/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Modern JavaScript From The Beginning",
+          "url": "https://www.udemy.com/course/modern-javascript-from-the-beginning/",
+          "platform": "Udemy"
+        }
+      ],
+      "recommendedBooks": [
+        "Eloquent JavaScript by Marijn Haverbeke",
+        "You Don't Know JS by Kyle Simpson",
+        "JavaScript: The Good Parts by Douglas Crockford"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Traversy Media",
+          "url": "https://www.youtube.com/user/TechGuyWeb"
+        },
+        {
+          "name": "Fun Fun Function",
+          "url": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q"
+        },
+        {
+          "name": "The Net Ninja",
+          "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
+        }
+      ]
+    },
+    {
+      "technology": "React.js",
+      "courses": [
+        {
+          "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+          "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Modern React with Redux",
+          "url": "https://www.udemy.com/course/react-redux/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)",
+          "url": "https://www.udemy.com/course/complete-react-developer-zero-to-mastery/",
+          "platform": "Udemy"
+        }
+      ],
+      "recommendedBooks": [
+        "React Up and Running by Stoyan Stefanov",
+        "Learning React by Alex Banks and Eve Porcello",
+        "Road to React by Robin Wieruch"
+      ],
+      "youtubeChannels": [
+        {
+          "name": "Academind",
+          "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w"
+        },
+        {
+          "name": "Ben Awad",
+          "url": "https://www.youtube.com/user/99baddawg"
+        },
+        {
+          "name": "Codevolution",
+          "url": "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw"
+        }
+      ]
+    },
+    {
+      "technology": "Angular.js",
+      "courses": [
+        {
+          "title": "Angular - The Complete Guide (2023 Edition)",
+          "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+          "platform": "Udemy"
+        },
+        {
+          "title": "Angular Essential Training",
+          "url": "https://www.linkedin.com/learning/angular-essential-training-2",
+          "platform": "LinkedIn Learning"
+        },
+        {
+          "title": "Learn and Understand AngularJS",
+          "url": "https://www.udemy.com/course/learn-angularjs/",
+          "platform": "Udemy"
+        }
+    ],
+    "recommendedBooks": [
+      "Angular Development with Typescript by Yakov Fain and Anton Moiseev",
+      "Ng-Book: The Complete Book on Angular by Nate Murray, Felipe Coury, Ari Lerner, and Carlos Taborda",
+      "Angular in Action by Jeremy Wilken"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Angular University",
+        "url": "https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A"
+      },
+      {
+        "name": "Mosh Hamedani",
+        "url": "https://www.youtube.com/user/programmingwithmosh"
+      },
+      {
+        "name": "Fireship",
+        "url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+      }
+    ]
+  },
+  {
+    "technology": "Node.js",
+    "courses": [
+      {
+        "title": "The Complete Node.js Developer Course (3rd Edition)",
+        "url": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+        "url": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Learn and Understand NodeJS",
+        "url": "https://www.udemy.com/course/understand-nodejs/",
+        "platform": "Udemy"
+      }
+    ],
+    "recommendedBooks": [
+      "Node.js Design Patterns by Mario Casciaro and Luciano Mammino",
+      "Node.js 8 the Right Way by Jim Wilson",
+      "Node.js in Action by Alex Young, Bradley Meck, and Mike Cantelon"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Academind",
+        "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w"
+      },
+      {
+        "name": "The Net Ninja",
+        "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
+      },
+      {
+        "name": "Traversy Media",
+        "url": "https://www.youtube.com/user/TechGuyWeb"
+      }
+    ]
+  },
+  {
+    "technology": "MongoDB",
+    "courses": [
+      {
+        "title": "MongoDB - The Complete Developer's Guide 2023",
+        "url": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "MongoDB Essentials - Complete MongoDB Guide",
+        "url": "https://www.udemy.com/course/mongodb-essentials-m/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "MongoDB Basics",
+        "url": "https://university.mongodb.com/courses/M001/about",
+        "platform": "MongoDB University"
+      }
+    ],
+    "recommendedBooks": [
+      "MongoDB: The Definitive Guide by Shannon Bradshaw, Eoin Brazil, and Kristina Chodorow",
+      "MongoDB in Action by Kyle Banker, Peter Bakkum, Shaun Verch, Doug Garrett, and Tim Hawkins",
+      "MongoDB Applied Design Patterns by Rick Copeland"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "MongoDB",
+        "url": "https://www.youtube.com/user/MongoDB"
+      },
+      {
+        "name": "Traversy Media",
+        "url": "https://www.youtube.com/user/TechGuyWeb"
+      },
+      {
+        "name": "Academind",
+        "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w"
+      }
+    ]
+  },
+  {
+    "technology": "SQL",
+    "courses": [
+      {
+        "title": "The Complete SQL Bootcamp 2023: Go from Zero to Hero",
+        "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "SQL for Data Science",
+        "url": "https://www.coursera.org/learn/sql-for-data-science",
+        "platform": "Coursera"
+      },
+      {
+        "title": "Advanced SQL for Query Tuning and Performance Optimization",
+        "url": "https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization",
+        "platform": "LinkedIn Learning"
+      }
+    ],
+    "recommendedBooks": [
+      "SQL Performance Explained by Markus Winand",
+      "SQL Queries for Mere Mortals by John L. Viescas",
+      "T-SQL Fundamentals by Itzik Ben-Gan"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Wise Owl Tutorials",
+        "url": "https://www.youtube.com/user/WiseOwlTutorials"
+      },
+      {
+        "name": "Caleb Curry",
+        "url": "https://www.youtube.com/user/CalebTheVideoMaker2"
+      },
+      {
+        "name": "Programming with Mosh",
+        "url": "https://www.youtube.com/user/programmingwithmosh"
+      }
+    ]
+  },
+  {
+    "technology": "Cybersecurity",
+    "courses": [
+      {
+        "title": "The Complete Cyber Security Course : Hackers Exposed!",
+        "url": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Introduction to Cyber Security Specialization",
+        "url": "https://www.coursera.org/specializations/intro-cyber-security",
+        "platform": "Coursera"
+      },
+      {
+        "title": "CompTIA Security+ (SY0-601) Complete Course & Exam",
+        "url": "https://www.udemy.com/course/securityplus/",
+        "platform": "Udemy"
+      }
+    ],
+    "recommendedBooks": [
+      "The Web Application Hacker's Handbook by Dafydd Stuttard and Marcus Pinto",
+      "Hacking: The Art of Exploitation by Jon Erickson",
+      "The Cyber Effect by Mary Aiken"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Null Byte",
+        "url": "https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g"
+      },
+      {
+        "name": "SANS Offensive Operations",
+        "url": "https://www.youtube.com/user/SANSOffensiveOps"
+      },
+      {
+        "name": "The Cyber Mentor",
+        "url": "https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw"
+      }
+    ]
+  },
+  {
+    "technology": "C#",
+    "courses": [
+      {
+        "title": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+        "url": "https://www.udemy.com/course/csharp-tutorial-for-beginners/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "C# Intermediate: Classes, Interfaces and OOP",
+        "url": "https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "C# Advanced Topics: Prepare for Technical Interviews",
+        "url": "https://www.udemy.com/course/csharp-advanced/",
+        "platform": "Udemy"
+      }
+    ],
+    "recommendedBooks": [
+      "C# in Depth by Jon Skeet",
+      "C# 9.0 in a Nutshell by Joseph Albahari and Eric Johannsen",
+      "Pro C# 9 with .NET 5 by Andrew Troelsen and Philip Japikse"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "IAmTimCorey",
+        "url": "https://www.youtube.com/user/IAmTimCorey"
+      },
+      {
+        "name": "Brackeys",
+        "url": "https://www.youtube.com/user/Brackeys"
+      },
+      {
+        "name": "Mosh Hamedani",
+        "url": "https://www.youtube.com/user/programmingwithmosh"
+      }
+    ]
+  },
+  {
+    "technology": "Ruby",
+    "courses": [
+      {
+        "title": "The Complete Ruby on Rails Developer Course",
+        "url": "https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Learn to Code with Ruby",
+        "url": "https://www.udemy.com/course/learn-to-code-with-ruby-lang/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Ruby Programming for Beginners",
+        "url": "https://www.coursera.org/learn/ruby-on-rails-intro",
+        "platform": "Coursera"
+      }
+    ],
+    "recommendedBooks": [
+      "The Well-Grounded Rubyist by David A. Black and Joseph Leo",
+      "Practical Object-Oriented Design in Ruby by Sandi Metz",
+      "Metaprogramming Ruby 2 by Paolo Perrotta"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "GoRails",
+        "url": "https://www.youtube.com/channel/UCIQmhQxCvLHRr3Beku77tww"
+      },
+      {
+        "name": "Drifting Ruby",
+        "url": "https://www.youtube.com/channel/UCxJaNyXCQw0mghY0hA1wA9w"
+      },
+      {
+        "name": "Ruby on Rails Screencasts",
+        "url": "https://www.youtube.com/user/gorails"
+      }
+    ]
+  },
+  {
+    "technology": "Rust",
+    "courses": [
+      {
+        "title": "The Rust Programming Language",
+        "url": "https://www.udemy.com/course/rust-lang/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Rust Programming Language for Beginners",
+        "url": "https://www.udemy.com/course/rust-coding-for-beginners/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Rust Fundamentals",
+        "url": "https://www.pluralsight.com/courses/rust-fundamentals",
+        "platform": "Pluralsight"
+      }
+    ],
+    "recommendedBooks": [
+      "The Rust Programming Language by Steve Klabnik and Carol Nichols",
+      "Programming Rust by Jim Blandy and Jason Orendorff",
+      "Rust in Action by Tim McNamara"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Lets Get Rusty",
+        "url": "https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w"
+      },
+      {
+        "name": "Tensor Programming",
+        "url": "https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg"
+      },
+      {
+        "name": "Jon Gjengset",
+        "url": "https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ"
+      }
+    ]
+  },
+  {
+    "technology": "PHP",
+    "courses": [
+      {
+        "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+        "url": "https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "The Complete PHP MYSQL Professional Course with 5 Projects",
+        "url": "https://www.udemy.com/course/the-complete-php-mysql-professional-course/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "PHP with Laravel for beginners - Become a Master in Laravel",
+        "url": "https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/",
+        "platform": "Udemy"
+      }
+    ],
+    "recommendedBooks": [
+      "PHP & MySQL: Novice to Ninja by Tom Butler and Kevin Yank",
+      "Modern PHP: New Features and Good Practices by Josh Lockhart",
+      "PHP Objects, Patterns, and Practice by Matt Zandstra"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Traversy Media",
+        "url": "https://www.youtube.com/user/TechGuyWeb"
+      },
+      {
+        "name": "The Net Ninja",
+        "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
+      },
+      {
+        "name": "Codecourse",
+        "url": "https://www.youtube.com/user/phpacademy"
+      }
+    ]
+  },
+  {
+    "technology": "Go",
+    "courses": [
+      {
+        "title": "Go: The Complete Developer's Guide (Golang)",
+        "url": "https://www.udemy.com/course/go-the-complete-developers-guide/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Learn How To Code: Google's Go (golang) Programming Language",
+        "url": "https://www.udemy.com/course/learn-how-to-code/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Getting Started with Go",
+        "url": "https://www.coursera.org/learn/golang-getting-started",
+        "platform": "Coursera"
+      }
+    ],
+    "recommendedBooks": [
+      "The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan",
+      "Go in Action by William Kennedy",
+      "Concurrency in Go by Katherine Cox-Buday"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "JustForFunc: Programming in Go",
+        "url": "https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw"
+      },
+      {
+        "name": "Gio",
+        "url": "https://www.youtube.com/channel/UCMcVaLgoae6isZxihhTwcig"
+      },
+      {
+        "name": "GopherCon UK",
+        "url": "https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ"
+      }
+    ]
+  },
+  {
+    "technology": "Machine Learning",
+    "courses": [
+      {
+        "title": "Machine Learning by Andrew Ng",
+        "url": "https://www.coursera.org/learn/machine-learning",
+        "platform": "Coursera"
+      },
+      {
+        "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+        "url": "https://www.udemy.com/course/machinelearning/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+        "platform": "Udemy"
+      }
+    ],
+    "recommendedBooks": [
+      "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron",
+      "Pattern Recognition and Machine Learning by Christopher Bishop",
+      "The Hundred-Page Machine Learning Book by Andriy Burkov"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "3Blue1Brown",
+        "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
+      },
+      {
+        "name": "Sentdex",
+        "url": "https://www.youtube.com/user/sentdex"
+      },
+      {
+        "name": "Two Minute Papers",
+        "url": "https://www.youtube.com/user/keeroyz"
+      }
+    ]
+  },
+  {
+    "technology": "Data Structures and Algorithms",
+    "courses": [
+      {
+        "title": "Algorithms, Part I",
+        "url": "https://www.coursera.org/learn/algorithms-part1",
+        "platform": "Coursera"
+      },
+      {
+        "title": "Data Structures and Algorithms Specialization",
+        "url": "https://www.coursera.org/specializations/data-structures-algorithms",
+        "platform": "Coursera"
+      },
+      {
+        "title": "Master the Coding Interview: Data Structures + Algorithms",
+        "url": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/",
+        "platform": "Udemy"
+      }
+    ],
+    "recommendedBooks": [
+      "Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein",
+      "Algorithms by Robert Sedgewick and Kevin Wayne",
+      "Cracking the Coding Interview by Gayle Laakmann McDowell"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Abdul Bari",
+        "url": "https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw"
+      },
+      {
+        "name": "mycodeschool",
+        "url": "https://www.youtube.com/user/mycodeschool"
+      },
+      {
+        "name": "MIT OpenCourseWare",
+        "url": "https://www.youtube.com/user/MIT"
+      }
+    ]
+  },
+  
+  {
+    "technology": "Artificial Intelligence",
+    "courses": [
+      {
+        "title": "AI For Everyone",
+        "url": "https://www.coursera.org/learn/ai-for-everyone",
+        "platform": "Coursera"
+      },
+      {
+        "title": "Artificial Intelligence A-Z™: Learn How To Build An AI",
+        "url": "https://www.udemy.com/course/artificial-intelligence-az/",
+        "platform": "Udemy"
+      },
+      {
+        "title": "Introduction to Artificial Intelligence (AI)",
+        "url": "https://www.edx.org/course/introduction-to-artificial-intelligence-ai-3",
+        "platform": "edX"
+      }
+    ],
+    "recommendedBooks": [
+      "Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig",
+      "Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark",
+      "Superintelligence: Paths, Dangers, Strategies by Nick Bostrom"
+    ],
+    "youtubeChannels": [
+      {
+        "name": "Lex Fridman",
+        "url": "https://www.youtube.com/user/lexfridman"
+      },
+      {
+        "name": "AI Accelerator Institute",
+        "url": "https://www.youtube.com/channel/UCUvfU9B95lBVt75lOdXLNUA"
+      },
+      {
+        "name": "DeepMind",
+        "url": "https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A"
+      }
+    ]
+  }
+]
